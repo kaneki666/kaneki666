@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on Miaki Media Limited as Software Engineer.
+🔭 I’m currently working on Miaki Media Limited as Software Engineer.\n
 🌱 I’m currently learning Flutter Architecture Patterns and Next.js.
 <!--
 **kaneki666/kaneki666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
