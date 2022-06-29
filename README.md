@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **msadman789@gmail.com**
 
-- ⚡ Fun fact **“If I had to do it all over again, I probably would same way!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
